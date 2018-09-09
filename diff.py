@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """HTML Diff: http://www.aaronsw.com/2002/diff
-Rough code, badly documented. Send me comments and patches."""
+"""
 
 __author__ = 'Aaron Swartz <me@aaronsw.com>'
 __copyright__ = '(C) 2003 Aaron Swartz. GNU GPL 2 or 3.'
