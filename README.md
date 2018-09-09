@@ -1,2 +1,2 @@
-##Highlights the differences between two HTML pages. :wink:
+## Highlights the differences between two HTML pages. :wink:
 
